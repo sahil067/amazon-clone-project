@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![ReactJS Amazon clone project(Dashboard-am1.png?raw=true "Amazon clone project")
+![ReactJS Amazon clone project](Dashboard-am1.png?raw=true "Amazon clone project")
 
 ## Available Scripts
 
